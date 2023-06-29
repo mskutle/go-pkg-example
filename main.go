@@ -19,3 +19,7 @@ func Subtract(numbers ...int) int {
 
 	return sum
 }
+
+func Divide(a, b int) int {
+	return a / b
+}
